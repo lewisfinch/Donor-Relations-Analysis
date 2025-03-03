@@ -1,0 +1,14 @@
+{
+  "name": "524b6967e3a51210",
+  "main": "524b6967e3a51210@821.js",
+  "version": "821.0.0",
+  "homepage": "https://observablehq.com/d/524b6967e3a51210",
+  "author": {
+    "name": "Yicheng",
+    "url": "https://observablehq.com/@yicheng"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

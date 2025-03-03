@@ -1,0 +1,14 @@
+{
+  "name": "b5655f015ea6fc15",
+  "main": "b5655f015ea6fc15@917.js",
+  "version": "917.0.0",
+  "homepage": "https://observablehq.com/d/b5655f015ea6fc15",
+  "author": {
+    "name": "Yicheng",
+    "url": "https://observablehq.com/@yicheng"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
